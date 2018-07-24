@@ -23,3 +23,7 @@ body {
     position: relative;
     right: 10px
 }
+
+li:hover{
+    font-weight: 700;
+}
