@@ -13,6 +13,7 @@ body {
 }
 
 #about {
-    color: grey;
+    color: black;
     background-color: white;
+    font-weight: bold;
 }
