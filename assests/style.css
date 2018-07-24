@@ -21,3 +21,9 @@ body {
 .profile {
 
 }
+
+.date {
+    display: inline-block;
+    position: relative;
+    right: 10px
+}
