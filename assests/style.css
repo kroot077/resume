@@ -20,7 +20,7 @@ body {
 
 .date {
     display: inline-block;
-    position: relative;
+    position: absolute;
     right: 10px
 }
 
