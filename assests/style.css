@@ -9,11 +9,15 @@ body {
 } */
 
 .contact h1{
-    color: silver;
+    color: lightyellow;
 }
 
 #about {
     color: black;
     background-color: white;
     font-weight: bold;
+}
+
+.profile {
+
 }
