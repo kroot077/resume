@@ -3,11 +3,16 @@ body {
     color: white;
 }
 
-a {
+/* a {
     text-decoration: none;
     color: lightblue;
-}
+} */
 
 .contact h1{
+    color: silver;
+}
+
+#about {
     color: grey;
+    background-color: white;
 }
