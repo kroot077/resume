@@ -3,6 +3,10 @@ body {
     color: white;
 }
 
+a {
+    text-decoration: none;
+}
+
 .contact h1{
     color: grey;
 }
